@@ -1,6 +1,5 @@
 import os
 import configparser
-
 # 读取配置文件
 def getConfig(filename, section):
     """
